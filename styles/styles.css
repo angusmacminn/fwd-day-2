@@ -1,0 +1,38 @@
+body
+{
+    background-color: #7DAEED;
+    font-family: Helvetica, sans-serif;
+    color: #000000;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+.s2-bg-swap{
+    color: #7DAEED;
+    background-color: #000000;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+table, th, td {
+    border: solid #ff0000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+img {
+    border: dashed #008000;
+}
